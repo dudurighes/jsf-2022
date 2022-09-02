@@ -1,0 +1,4 @@
+br\com\jsfcomwildfly\jsf\teste\bean\AdminLivrosBean.class
+br\com\jsfcomwildfly\jsf\teste\dao\LivroDao.class
+META-INF\sisu\javax.inject.Named
+br\com\jsfcomwildfly\jsf\teste\model\Livro.class
